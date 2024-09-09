@@ -2,6 +2,7 @@ The objective of this project is to build a python application that classifies t
 
 The dataset has 2000 rows and 21 features of a smart phone. To proceed with this dataset for the given problem of ranking smartphone features based on user requests, I followed these steps:
 
+  
   Checked for missing values in the dataset and handled them appropriately.
   Explored the dataset using statistical analysis and visualization to understand the distribution 
   of the features and their relationships with each other.
